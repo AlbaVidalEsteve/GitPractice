@@ -17,6 +17,9 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             print("Esto es un ejemplo")
+            print("Esto es un ejemplo")
+            print("Esto es un ejemplo")
+            print("Esto es un ejemplo")
             GitPracticeTheme {
                 // A surface container using the 'background' color from the theme
                 Surface(
